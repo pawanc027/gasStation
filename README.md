@@ -1,3 +1,4 @@
+```
 Write a program using C++ that simulates a Gas Station with below requirements
 
 a. You have 10 cars 
@@ -11,4 +12,5 @@ h. Count the number of fill-ups for each pump
 i. Print the result to stdout
 j. This will need to be a multi-threaded program
 k. The cars should be represented as individual threads, not the pumps
-l. The car thread should initiate each action when its turn comes.
+l. The car thread should initiate each action when its turn comes
+```
